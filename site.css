@@ -1,0 +1,10 @@
+#banner {position:absolute; left:0px; right:0px; top:0px; height:65px; background-color:#d2691e; text-align:center;}
+#banner {position:absolute; left:0px; right:0px; top:0px; height:65px; background-color:#FFFFFF text-align:center;}
+#content {margin-left:165px; margin-top:65px; padding:5px 5px; font-size:16px;}
+#nav {position:absolute; margin-top:0px; left:0px; font-size:16px; padding:0; border:1px solid silver; background-color:#FFFFFF; text-align:left; width:160px;}
+#nav li {list-style:none; margin:0; padding:10px;}
+#nav a {display:block; font-weight:bold;}
+#nav a:link {color:#000000; background-color:#EEEEEE;}
+#nav a:visited {color:#666666; background-color:#EEEEEE;}
+#nav a:hover {color:#000000; background-color:#FFFFFF;}
+#nav a:active {color:#FFFFFF; background-color:#808080;}
